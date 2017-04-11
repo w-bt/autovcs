@@ -1,0 +1,25 @@
+﻿  Core.cpp
+Core.cpp(198): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(273): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(340): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(482): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(764): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(771): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(995): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1049): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1105): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1156): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1244): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(1286): warning C4244: 'argument' : conversion from 'double' to 'mpir_ui', possible loss of data
+Core.cpp(1333): warning C4244: 'argument' : conversion from 'double' to 'mpir_ui', possible loss of data
+Core.cpp(1335): warning C4129: 'E' : unrecognized character escape sequence
+Core.cpp(1372): warning C4018: '<' : signed/unsigned mismatch
+Core.cpp(1535): warning C4101: 'flag' : unreferenced local variable
+Core.cpp(1758): warning C4101: 'avWidthArea' : unreferenced local variable
+Core.cpp(1758): warning C4101: 'avHeightArea' : unreferenced local variable
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  AutoVCS.vcxproj -> C:\Users\Widhian\Documents\Visual Studio 2012\Projects\AutoVCS\Release\AutoVCS.exe
